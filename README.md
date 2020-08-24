@@ -19,9 +19,9 @@ Development of this application would require the use of Adobe XD, SQL and Andro
 
 #### Experimental work/data collection 
 
-Building this app requires vast knowledge in the textile industry as the quality and price should be assessed and verified whether it's reasonable before entering these details on the application. If this information isn't practical, customers wouldn't turn up to our application. Also, discount rates must be specified carefully. Knowledge of shops existing in the city - Alexandria, Egypt for this application is also very necessary. The information about the 30 shops i.e picture, location, merchandise and discount they offer was collected. My job was to design interfaces in AdobeXD. Complete data isn’t necessary for creating outlines, just a few details about some of the shops to show how the design would look is more necessary. 
+Building this app requires vast knowledge in the textile industry as the quality and price should be assessed and verified whether it's reasonable before entering these details on the application. If this information isn't practical, customers wouldn't turn up to our application. Also, discount rates must be specified carefully. Knowledge of shops existing in the city - Alexandria, Egypt for this application is also very necessary. The information about the 30 shops i.e picture, location, merchandise and discount they offer was collected. My job was to design the full database. Complete data isn’t necessary for creating outlines, just a few details about some of the shops to show how the design would look is more necessary. 
 
-#### Creation of pages in adobe xd
+
 
 ## RESULTS
  The demo of the app is available as screenshots in above **RESULT** file.
